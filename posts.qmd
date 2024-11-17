@@ -1,0 +1,22 @@
+---
+title: "Posts"
+listing:
+  contents: posts/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+  feed: true
+page-layout: full
+title-block-banner: false 
+---
+
+## Series
+
+1. [Data Science](data-science-series.qmd)
+
+2. [Cloud](cloud-series.qmd)
+
+3. [Homelab](homelab-series.qmd)

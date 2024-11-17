@@ -1,0 +1,20 @@
+---
+title: "Dhruv Dole"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: newspaper 
+      text: Posts
+      href: posts.qmd
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+data scientist, writer, tinkerer
+
+

@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Dhruv's Blog"
+  site-url: https://ddole.net
+  description: "This is my Blog"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd 
+      - text: Posts 
+        href: posts.qmd
+      - icon: github
+        href: https://github.com/dsdole
+      - icon: linkedin 
+        href: https://www.linkedin.com/in/ddole/
+      - icon: rss
+        href: posts.xml
+      - text: test-menu
+        menu:
+          - text: Gitlab
+            href: gitlab.com
+          - text: resume
+            href: resume.pdf
+      - text: Archive
+        href: archive.qmd
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+cookie-consent: true

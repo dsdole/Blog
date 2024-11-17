@@ -1,0 +1,28 @@
+# options specified here will apply to all posts in this folder
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+freeze: true
+
+# Enable banner style title blocks
+title-block-banner: true
+
+author: 'Dhruv Dole'
+
+toc: true
+toc-depth: 3
+
+comments:
+  giscus:
+    repo: dsdole/blog-comments
+    repo-id: "R_kgDONQhHqA" 
+    category: Post Comments
+    category-id: "DIC_kwDONQhHqM4CkVpX"
+    mapping: pathname
+    reactions-enabled: true
+    #loading: lazy
+    input-position: top 
+    theme:
+      light: light
+      dark: dark_dimmed
+    language: en

@@ -1,0 +1,25 @@
+---
+title: Yet Another Tech Blog?
+description: Why start a blog?
+date: 6/16/2024
+categories: 
+  - Personal
+
+--- 
+
+## A Little About Me
+I am an undergraduate student at Iowa State University. I spent two years studying mechanical engineering before I realized that I wanted something different. Switching to Data Science, I've found a field that is at the forefront of so much change in society, a field that is actively shaping human progress. In the two years since, I've delved into the figurative abyss and found that the depth of knowledge required to understand these technologies is so deep that most will never understand it. With tech like large-language-models and text-to-image models becoming commonplace and with the ever increasing mass collection of user data for tailored advertisements, I believe that it is highly important that we realize just how ingrained in our psyche technology has become.
+
+## What is Privacy?
+[Merriam-Webster](https://www.merriam-webster.com/dictionary/privacy) defines privacy as "the quality or state of being apart from company or observation, [or] freedom from unauthorized intrusion". This includes digital privacy. The proliferation of smartphones and internet access mean that people of all ages are using the internet in every facet of their lives. The end result is a much more convenient life but many don't realize that the consequences will be damaging to society as a whole. This is due to a very simple fact, a democratic society cannot exist without the opportunity for free thinking individuals to debate and deliberate without malign influence. That is to say, given all available fact and reasoning, people must have a right to be able to come to an independent conclusion without outside interference. 
+
+## Motivations for a Website?
+My motivations for creating a website are two-fold. On one hand I want to advocate for digital privacy and foster discussion on the philosophical blending of technology and humanity. On the other hand I want to showcase all that I am learning and doing, to show that is is possible to create a "digital garden" free from advertisers and algorithmic content curation. 
+
+Also I need to build a reputation to get a job. someone hire me.
+
+## The Blog
+As of right now, my plan is to split the site into two major sections: this blog and a wiki. Whenever I learn or implement a new service into my system, I'll write about it. When ever I find some inspiration, I'll write about it. In essence the blog will be a chronology of my journey in this technological world. I hope it inspires others as well.
+
+## The Wiki
+The wiki something I am really excited about. I will be building a wiki focused on two major topics: "selfhosting" and data science(I forgot to mention I am a DS student). My goal for the data science section is to document everything I have learned and will learn in my study of statistics, ML, and computer science so that I and anyone else will have a reference for the future. My goal for the selfhosting part is that anyone starting out with selfhosting should not have to go searching for hours amongst forum posts, outdated documentation, and AI-regurgitated content to find answers. One single site as a well-rounded foundation for building and maintaining a true Digital Garden. 
